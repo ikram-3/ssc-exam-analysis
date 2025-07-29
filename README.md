@@ -65,7 +65,6 @@ The `SSC_Exam_Analysis.ipynb` notebook contains detailed code, explanations, and
 
 * Bar charts showing pass/fail distributions.
 * Histograms or bar plots illustrating the most failed subjects.
-* Correlation matrices or heatmaps for subject failure relationships (if applicable from the notebook).
 * Visualizations related to fine counts and cancelled exam reasons.
 
 ## Author
